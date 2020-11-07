@@ -12,6 +12,6 @@ jobs:
     - name: Run tests
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 3.0.100
+        dotnet-version: 3.1.300
     - name: Tested with dotnet
       run: dotnet test advent2018.sln --configuration Release
