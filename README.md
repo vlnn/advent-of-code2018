@@ -1,9 +1,14 @@
-## TDD Calculator kata
+## Advent of code 2018
 
 *Investing time in old stuff trying to do it in new way.*
 
+https://adventofcode.com/2018/
+
 <a href="https://github.com/vlnn/tdd-csharp-calc"><img alt="GitHub Actions status" src="https://github.com/vlnn/tdd-csharp-calc/workflows/.NET%20Core/badge.svg"></a>
 <a href="https://github.com/vlnn/tdd-csharp-calc"><img alt="GitHub Actions status" src="https://github.com/vlnn/tdd-csharp-calc/workflows/Tests/badge.svg"></a>
+
+### Currently covered (at least started)
+1. Chronal Calibration https://adventofcode.com/2018/day/1
 
 ### Rules for this one:
 1. Use TDD in hardcore way:
