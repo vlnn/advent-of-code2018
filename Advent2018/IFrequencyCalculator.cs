@@ -1,5 +1,7 @@
 namespace Advent2018 {
+    using System.Collections.Generic;
+
     public interface IFrequencyCalculator {
-        public long Accumulate(long[] input);
+        public long Accumulate(List<long> input);
     }
 }
